@@ -1,0 +1,125 @@
+{
+  "templates": [
+    {
+      "pattern": [
+        "________________RRRRRRRRRR____________",
+        "_____________RRRRBBBBBBBBRRR__________",
+        "___________RRRBBBBBBBBBBBBBRRR________",
+        "___________RBBBBBBBGGGGYYYBBBR________",
+        "__________RRBBBBGGGGBBBYBYWRBRR_______",
+        "__________RBBBGGGBBBBBYBYDDWRBR_______",
+        "_________RRBBGGBBBBBYYBYWDWRBBR_______",
+        "_________RBBGGBBBBBYBBYYRWRRBBRR______",
+        "RBBRR____RBGBBBBBYYBYYBBBRBBGBBRR_____",
+        "RRBBR___RRBBBBYYYBBYYBBBBBBBGGBBR_____",
+        "_RBBRR_RRBBBBYBBBYYBBBBBBBBBBGBBR_____",
+        "_RRBBRRRBBBBBBYYYBBBBBBBBBBBBBGBBB____",
+        "__RBBGBBBBBBBBBBBBBBBBBBBBBBBBBBBB____",
+        "___RBBGGGBBBBBBBBRRRRRRRRRRBBBBBB_____",
+        "___RRBBBBBBBBBRRRR________RRRRLRR_____",
+        "____RRRRBBBBRRR____________RRLRR______",
+        "_______RRRRRR_____________RRLRR_______",
+        "_________________________RRLRR________",
+        "________________________RRLRR_________",
+        "_____________________RRRRLRR__________",
+        "____________________RRYYLRR___________",
+        "____________________RYRLFRR___________",
+        "____________________RYLRRFR___________",
+        "_________________RRRRLRRRFR___________",
+        "________________RRFFLFFFFRR___________",
+        "________________RFRLRYRRRR____________",
+        "________________RFLRRYR_______________",
+        "____________RR_RRLYRRYR_______________",
+        "____________YRRRLRRYYRR_______________",
+        "____________YYYLRRRRRR________________",
+        "____________RBYYR_____________________",
+        "____________BYBYRR____________________",
+        "___________BYBRRYR____________________",
+        "___________YBRRRRR____________________",
+        "____________RR________________________"
+      ],
+      "topLeft": {
+        "x": -401,
+        "y": 400
+      }
+    }
+  ],
+  "colors": {
+    "F": {
+      "rgb": [
+        190,
+        0,
+        57
+      ],
+      "code": 1
+    },
+    "R": {
+      "rgb": [
+        255,
+        69,
+        0
+      ],
+      "code": 2
+    },
+    "O": {
+      "rgb": [
+        255,
+        168,
+        0
+      ],
+      "code": 3
+    },
+    "Y": {
+      "rgb": [
+        255,
+        214,
+        53
+      ],
+      "code": 4
+    },
+    "D": {
+      "rgb": [
+        36,
+        80,
+        164
+      ],
+      "code": 12
+    },
+    "B": {
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "code": 27
+    },
+    "G": {
+      "rgb": [
+        137,
+        141,
+        144
+      ],
+      "code": 29
+    },
+    "L": {
+      "rgb": [
+        212,
+        215,
+        217
+      ],
+      "code": 30
+    },
+    "W": {
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "code": 31
+    }
+  },
+  "topLeft": {
+    "x": -1500,
+    "y": -1000
+  }
+}
